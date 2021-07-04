@@ -1,0 +1,149 @@
+название, обьем, min_price_increment, тип, min_quantity, i.ticker, i.currency, i.figi
+"Башнефть", 1, 0.5, Stock, None, BANE, RUB, BBG004S68758 
+"O'Key Group SA", 10, 0.01, Stock, None, OKEY, RUB, BBG00172J7S9 
+"Fix Price Group", 1, 0.1, Stock, None, FIXP, RUB, BBG00ZHCX1X2 
+"Трубная Металлургическая Компания", 10, 0.02, Stock, None, TRMK, RUB, BBG004TC84Z8 
+"Московская Биржа", 10, 0.01, Stock, None, MOEX, RUB, BBG004730JJ5 
+"Башнефть - привилегированные акции", 1, 0.5, Stock, None, BANEP, RUB, BBG004S686N0 
+"РУСАЛ", 10, 0.005, Stock, None, RUAL, RUB, BBG008F2T3T2 
+"Таттелеком", 10000, 0.0005, Stock, None, TTLK, RUB, BBG000RJL816 
+"МРСК Урала", 10000, 0.0002, Stock, None, MRKU, RUB, BBG000VKG4R5 
+"Норильский никель", 1, 2, Stock, None, GMKN, RUB, BBG004731489 
+"МРСК Северо-Запада", 10000, 0.00005, Stock, None, MRKZ, RUB, BBG000TJ6F42 
+"ТГК-2", 1000000, 0.000005, Stock, None, TGKB, RUB, BBG000Q7GG57 
+"ПАО «КАЗАНЬОРГСИНТЕЗ»", 10, 0.1, Stock, None, KZOS, RUB, BBG0029SFXB3 
+"МОЭСК", 1000, 0.0005, Stock, None, MSRS, RUB, BBG004S687G6 
+"QIWI", 1, 0.5, Stock, None, QIWI, RUB, BBG005D1WCQ1 
+"Корпорация ИРКУТ", 100, 0.02, Stock, None, IRKT, RUB, BBG000FWGSZ5 
+"ИСКЧ", 100, 0.01, Stock, None, ISKJ, RUB, BBG000N16BP3 
+"Ozon Holdings PLC", 1, 0.5, Stock, None, OZON, RUB, BBG00Y91R9T3 
+"Юнипро", 1000, 0.001, Stock, None, UPRO, RUB, BBG004S686W0 
+"Мечел - Привилегированные акции", 10, 0.05, Stock, None, MTLRP, RUB, BBG004S68FR6 
+"ПАО «КАЗАНЬОРГСИНТЕЗ» - акции привилегированные", 10, 0.01, Stock, None, KZOSP, RUB, BBG0029SG1C1 
+"Ленэнерго", 100, 0.01, Stock, None, LSNG, RUB, BBG000NLC9Z6 
+"РусГидро", 1000, 0.0001, Stock, None, HYDR, RUB, BBG00475K2X9 
+"Ростелеком - Привилегированные акции", 10, 0.05, Stock, None, RTKMP, RUB, BBG004S685M3 
+"Yandex", 1, 0.2, Stock, None, YNDX, RUB, BBG006L8G4H1 
+"АФК Система", 100, 0.001, Stock, None, AFKS, RUB, BBG004S68614 
+"ТНС энерго Воронеж", 10, 0.2, Stock, None, VRSB, RUB, BBG000BX7DH0 
+"Банк ВТБ", 10000, 0.000005, Stock, None, VTBR, RUB, BBG004730ZJ9 
+"Селигдар - Акции привилегированные", 100, 0.05, Stock, 1, SELGP, RUB, BBG002Z693D3 
+"Роснефть", 10, 0.05, Stock, None, ROSN, RUB, BBG004731354 
+"Нижнекамскнефтехим", 10, 0.05, Stock, None, NKNC, RUB, BBG000GQSRR5 
+"En+ Group", 1, 0.5, Stock, None, ENPG, RUB, BBG000RMWQD4 
+"ЧМК", 1, 5, Stock, None, CHMK, RUB, BBG000RP8V70 
+"ФСК ЕЭС", 10000, 0.00002, Stock, None, FEES, RUB, BBG00475JZZ6 
+"Газпром", 10, 0.01, Stock, None, GAZP, RUB, BBG004730RP0 
+"Банк Возрождение - акции привилегированные", 10, 0.2, Stock, None, VZRZP, RUB, BBG000NLHR27 
+"Саратовский НПЗ - акции привилегированные", 1, 20.0, Stock, None, KRKNP, RUB, BBG002B2J5X0 
+"Распадская", 10, 0.02, Stock, None, RASP, RUB, BBG004S68696 
+"Аптечная сеть 36,6", 10, 0.002, Stock, None, APTK, RUB, BBG000K3STR7 
+"Северсталь", 1, 0.2, Stock, None, CHMF, RUB, BBG00475K6C3 
+"Etalon Group PLC", 1, 0.02, Stock, None, ETLN, RUB, BBG001M2SC01 
+"Российские сети - акции привилегированные", 1000, 0.001, Stock, None, RSTIP, RUB, BBG000KTF667 
+"Русгрэйн", 10, 0.002, Stock, None, RUGR, RUB, BBG0014PFYM2 
+"Сбер Банк - привилегированные акции", 10, 0.01, Stock, None, SBERP, RUB, BBG0047315Y7 
+"Petropavlovsk PLC", 100, 0.005, Stock, None, POGR, RUB, BBG00VPKLPX4 
+"Сегежа", 100, 0.001, Stock, None, SGZH, RUB, BBG0100R9963 
+"МРСК Волги", 10000, 0.00005, Stock, None, MRKV, RUB, BBG000PKWCQ7 
+"ЧТПЗ", 10, 0.5, Stock, None, CHEP, RUB, BBG000Q49F45 
+"Кузбасская топливная компания", 10, 0.2, Stock, None, KBTK, RUB, BBG000QW1WH0 
+"АЛРОСА", 10, 0.01, Stock, None, ALRS, RUB, BBG004S68B31 
+"Селигдар", 100, 0.01, Stock, None, SELG, RUB, BBG002458LF8 
+"Группа Черкизово", 1, 0.5, Stock, None, GCHE, RUB, BBG000RTHVK7 
+"Русская аквакультура", 10, 0.5, Stock, None, AQUA, RUB, BBG000W325F7 
+"Мосэнерго", 1000, 0.0005, Stock, None, MSNG, RUB, BBG004S687W8 
+"Татнефть - привилегированные акции", 1, 0.1, Stock, None, TATNP, RUB, BBG004S68829 
+"Сургутнефтегаз", 100, 0.005, Stock, None, SNGS, RUB, BBG0047315D0 
+"Калужская сбытовая компания", 100, 0.01, Stock, None, KLSB, RUB, BBG000DBD6F6 
+"Фармсинтез", 100, 0.005, Stock, None, LIFE, RUB, BBG0019K04R5 
+"Совкомфлот", 10, 0.01, Stock, None, FLOT, RUB, BBG000R04X57 
+"ТГК-1", 100000, 0.000002, Stock, None, TGKA, RUB, BBG000QFH687 
+"Городские Инновационные Технологии", 100, 0.0005, Stock, None, GRNT, RUB, BBG00B8NN386 
+"Энел Россия", 1000, 0.0002, Stock, None, ENRU, RUB, BBG000F6YP24 
+"ГТМ", 10, 0.05, Stock, None, GTRK, RUB, BBG00HY6V6H5 
+"MAIL.RU", 1, 0.2, Stock, None, MAIL, RUB, BBG00178PGX3 
+"РуссНефть", 1, 0.2, Stock, None, RNFT, RUB, BBG00F9XX7H4 
+"САФМАР", 10, 0.2, Stock, None, SFIN, RUB, BBG003LYCMB1 
+"Акрон", 1, 2, Stock, None, AKRN, RUB, BBG004S688G4 
+"Магнит", 1, 0.5, Stock, None, MGNT, RUB, BBG004RVFCY3 
+"РусАгро", 1, 0.2, Stock, None, AGRO, RUB, BBG007N0Z367 
+"ГК Самолет", 1, 0.2, Stock, None, SMLT, RUB, BBG00F6NKQX3 
+"Квадра - привилегированные акции", 100000, 0.000005, Stock, None, TGKDP, RUB, BBG000BS4180 
+"Финансовая группа БУДУЩЕЕ", 1, 0.1, Stock, None, FTRE, RUB, BBG00F40L971 
+"КАМАЗ", 10, 0.1, Stock, None, KMAZ, RUB, BBG000LNHHJ9 
+"Лензолото", 1, 10.0, Stock, None, LNZL, RUB, BBG000SK7JS5 
+"Вторая генерирующая компания оптового рынка электроэнергии", 1000, 0.0001, Stock, None, OGKB, RUB, BBG000RK52V1 
+"РБК", 100, 0.002, Stock, None, RBCM, RUB, BBG001DJNR51 
+"Российские сети", 1000, 0.0001, Stock, None, RSTI, RUB, BBG004S682J4 
+"МРСК Центра и Приволжья", 10000, 0.0001, Stock, None, MRKP, RUB, BBG000VG1034 
+"ЛУКОЙЛ", 1, 0.5, Stock, None, LKOH, RUB, BBG004731032 
+"РУСАЛ", 10, None, Stock, None, RUAL_old, RUB, TCS008F2T3T2 
+"Полюс Золото", 1, 0.5, Stock, None, PLZL, RUB, BBG000R607Y3 
+"Банк Санкт-Петербург", 10, 0.01, Stock, None, BSPB, RUB, BBG000QJW156 
+"Татнефть", 1, 0.1, Stock, None, TATN, RUB, BBG004RVFFC0 
+"Томская распределительная компания", 10000, 0.001, Stock, None, TORS, RUB, BBG000MDCJV7 
+"ЮУНК", 1, 10.0, Stock, None, UNKL, RUB, BBG002YFXL29 
+"Мультисистема", 100, 0.001, Stock, None, MSST, RUB, BBG001BBSZV8 
+"Пермэнергосбыт - акции привилегированные", 10, 0.2, Stock, None, PMSBP, RUB, BBG000MZL2S9 
+"Ростелеком", 10, 0.01, Stock, None, RTKM, RUB, BBG004S682Z6 
+"TCS Group", 1, 0.2, Stock, None, TCSG, RUB, BBG00QPYJ5H0 
+"ВСМПО-АВИСМА", 1, 20.0, Stock, None, VSMO, RUB, BBG004S68CV8 
+"МГТС - акции привилегированные", 1, 2, Stock, None, MGTSP, RUB, BBG000PZ0833 
+"М.видео", 1, 0.1, Stock, None, MVID, RUB, BBG004S68CP5 
+"Сбер Банк", 10, 0.01, Stock, None, SBER, RUB, BBG004730N88 
+"АЛРОСА-Нюрба", 1, 200.0, Stock, None, ALNU, RUB, BBG002B25NL9 
+"Русолово", 100, 0.005, Stock, None, ROLO, RUB, BBG004Z2RGW8 
+"ПИК", 1, 0.1, Stock, None, PIKK, RUB, BBG004S68BH6 
+"ФосАгро", 1, 1, Stock, None, PHOR, RUB, BBG004S689R0 
+"ЧЗПСН", 100, 0.001, Stock, None, PRFN, RUB, BBG003BNWBP3 
+"НЛМК", 10, 0.02, Stock, None, NLMK, RUB, BBG004S681B4 
+"СОЛЛЕРС", 10, 0.5, Stock, None, SVAV, RUB, BBG004S68JR8 
+"Объединенная авиастроительная корпорация", 1000, 0.0005, Stock, None, UNAC, RUB, BBG000Q7ZZY2 
+"Иркутскэнерго", 100, 0.02, Stock, None, IRGZ, RUB, BBG000NL6ZD9 
+"ТГК-14", 1000000, 0.00001, Stock, None, TGKN, RUB, BBG000RG4ZQ4 
+"Транснефть", 1, 50.0, Stock, None, TRNFP, RUB, BBG00475KHX6 
+"МТС", 10, 0.05, Stock, None, MTSS, RUB, BBG004S681W1 
+"Красный Октябрь", 10, 0.5, Stock, None, KROT, RUB, BBG000NLB2G3 
+"Группа ЛСР", 1, 0.2, Stock, None, LSRG, RUB, BBG004S68C39 
+"Русполимет", 1000, 0.0005, Stock, None, RUSP, RUB, BBG000R466J1 
+"Сургутнефтегаз - привилегированные акции", 100, 0.005, Stock, None, SNGSP, RUB, BBG004S681M2 
+"НМТП", 100, 0.005, Stock, None, NMTP, RUB, BBG004S68BR5 
+"Магнитогорский металлургический комбинат", 10, 0.005, Stock, None, MAGN, RUB, BBG004S68507 
+"Ленэнерго - акции привилегированные", 10, 0.05, Stock, None, LSNGP, RUB, BBG000NLCCM3 
+"Лензолото - привилегированные акции", 1, 5, Stock, None, LNZLP, RUB, BBG000SR0YS4 
+"Газпром нефть", 10, 0.05, Stock, None, SIBN, RUB, BBG004S684M6 
+"Нижнекамскнефтехим - акции привилегированные", 10, 0.02, Stock, None, NKNCP, RUB, BBG000GQSVC2 
+"ДЭК", 1000, 0.001, Stock, None, DVEC, RUB, BBG000V07CB8 
+"Наука-Связь", 10, 0.5, Stock, None, NSVZ, RUB, BBG002BCQK67 
+"ТГК-2 - акции привилегированные", 100000, 0.00001, Stock, None, TGKBP, RUB, BBG000Q7GJ60 
+"ПРОТЕК", 10, 0.1, Stock, None, PRTK, RUB, BBG000TZGXK8 
+"НОВАТЭК", 1, 0.2, Stock, None, NVTK, RUB, BBG00475KKY8 
+"Квадра", 100000, 0.000005, Stock, None, TGKD, RUB, BBG000F6H7K3 
+"Ашинский метзавод", 100, 0.005, Stock, None, AMEZ, RUB, BBG000RJWGC4 
+"Детский Мир", 10, 0.02, Stock, None, DSKY, RUB, BBG000BN56Q9 
+"Мечел", 1, 0.01, Stock, None, MTLR, RUB, BBG004S68598 
+"РКК Энергия им.С.П.Королева", 1, 10.0, Stock, None, RKKE, RUB, BBG000LWNRP3 
+"Лента", 1, 0.1, Stock, None, LNTA, RUB, BBG000QQPXZ5 
+"МРСК Сибири", 10000, 0.0005, Stock, None, MRKS, RUB, BBG000VJMH65 
+"Обувь России", 10, 0.02, Stock, None, ORUP, RUB, BBG001BBGNS2 
+"МРСК Юга", 10000, 0.00005, Stock, None, MRKY, RUB, BBG000C7P5M7 
+"ГДР En+ Group", 1, 0.2, Stock, None, ENPL, RUB, BBG00J5LMW10 
+"ОВК", 1, 0.1, Stock, None, UWGN, RUB, BBG008HD3V85 
+"Пермэнергосбыт", 10, 0.1, Stock, None, PMSB, RUB, BBG000MZL0Y6 
+"Белуга Групп ПАО ао", 1, 1, Stock, None, BELU, RUB, BBG000TY1CD1 
+"ДВМП", 100, 0.01, Stock, None, FESH, RUB, BBG000QF1Q17 
+"MD Medical Group Investments PLC", 10, 0.1, Stock, None, MDMG, RUB, BBG003GTN5S5 
+"Polymetal", 1, 0.1, Stock, None, POLY, RUB, BBG004PYF2N3 
+"МКБ", 100, 0.001, Stock, None, CBOM, RUB, BBG009GSYN76 
+"Мостотрест", 10, 0.05, Stock, None, MSTT, RUB, BBG004S68DD6 
+"НКХП", 10, 0.5, Stock, None, NKHP, RUB, BBG00BGKYH17 
+"Дагестанская энергосбытовая компания", 1000, 0.0001, Stock, None, DASB, RUB, BBG000LWVHN8 
+"МРСК Центра", 1000, 0.0002, Stock, None, MRKC, RUB, BBG000VH7TZ8 
+"Центральный Телеграф - акции привилегированные", 100, 0.02, Stock, None, CNTLP, RUB, BBG0027F0Y27 
+"Интер РАО ЕЭС", 100, 0.0005, Stock, None, IRAO, RUB, BBG004S68473 
+"Globaltrans Investment PLC", 10, 0.05, Stock, None, GLTR, RUB, BBG000VFX6Y4 
+"Центральный Телеграф", 100, 0.02, Stock, None, CNTL, RUB, BBG000BBV4M5 
+"Аэрофлот", 10, 0.02, Stock, None, AFLT, RUB, BBG004S683W7 
+"ГДР X5 RetailGroup", 1, 0.5, Stock, None, FIVE, RUB, BBG00JXPFBN0 
+"АбрауДюрсо", 10, 0.5, Stock, None, ABRD, RUB, BBG002W2FT69 

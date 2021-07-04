@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.token.txt
+token.txt
+
+.idea
+.~lock.market.csv#
+
+portfolio.json
+text.json
+market_stocks.json
